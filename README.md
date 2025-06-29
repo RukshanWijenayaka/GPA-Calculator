@@ -49,7 +49,7 @@ This GPA Calculator allows users to register, log in, and calculate GPA by enter
 * JDBC
 * IntelliJ IDEA
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ---
 
@@ -73,7 +73,6 @@ This GPA Calculator allows users to register, log in, and calculate GPA by enter
 3. Add your DB credentials to `DBConnection.java`
 4. Run the project in your IDE
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
 
